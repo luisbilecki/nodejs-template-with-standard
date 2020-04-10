@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-template-with-standard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luis Felipe Bilecki <luis.bilecki@gmail.com>",
+  "license": "MIT"
+}
